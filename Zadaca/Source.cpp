@@ -1,9 +1,9 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 void main()
 {
 	setlocale(LC_ALL, "");
-	cout << "Ñêîëüêî íóæíî ïðîãðàììèñòîâ ÷òîáû âêðóòèòü ëàìïî÷êó?" << endl;
+	cout << "Ð¡ÐºÐ¾Ð»ÑŒÐºÐ¾ Ð½ÑƒÐ¶Ð½Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸ÑÑ‚Ð¾Ð² Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²ÐºÑ€ÑƒÑ‚Ð¸Ñ‚ÑŒ Ð»Ð°Ð¼Ð¿Ð¾Ñ‡ÐºÑƒ?" << endl;
 
 }
